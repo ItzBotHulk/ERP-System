@@ -15,7 +15,6 @@ const home = () => {
                 <div className='border border-black rounded-xl h-[50vh] w-[40vw] flex justify-center items-center bg-violet-500'>
                     <div className="button">
                         <Link href={'/find'}>Find Employee</Link>
-
                     </div>
                 </div>
             </div>

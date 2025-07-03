@@ -28,3 +28,6 @@ body {
 .button{
   @apply border rounded-xl p-5 hover:cursor-pointer bg-black text-white shadow-2xl
 }
+.input{
+  @apply border border-black
+}
